@@ -2,4 +2,32 @@ body {
   width: 100%;
   height: 100%;
   margin: 0;
+  text-align: center;
+
+}
+
+header a{
+  padding: 0px 10px;
+  background: lightgrey;
+}
+
+figcaption {
+  font-size: 90%;
+  padding-top: 5px;
+}
+
+#feature-property {
+  width: 800px;
+
+}
+
+#details {
+  background: red;
+}
+
+#details div{
+float: left;
+background: red;
+width: 25%;
+margin-bottom: 10px;
 }
